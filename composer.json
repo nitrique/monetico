@@ -1,0 +1,13 @@
+{
+    "name": "nitrique/monetico",
+    "description": "Monetico adaptation for composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicolas Guillard",
+            "email": "nicolas@nitrique.fr"
+        }
+    ],
+    "require": {}
+}
