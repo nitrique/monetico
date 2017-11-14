@@ -11,8 +11,8 @@
     ],
     "require": {},
     "autoload": {
-        "psr-0": {
-            "Monetico": "/"
+        "psr-4": {
+            "Nitrique": "src/"
         }
     }
 }
