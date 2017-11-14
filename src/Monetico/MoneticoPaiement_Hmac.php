@@ -1,5 +1,5 @@
 <?php
-namespace Monetico;
+namespace Nitrique\Monetico;
 /*****************************************************************************
 *
 * Classe / Class : MoneticoPaiement_Hmac
