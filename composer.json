@@ -9,5 +9,10 @@
             "email": "nicolas@nitrique.fr"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Monetico": "/"
+        }
+    }
 }
